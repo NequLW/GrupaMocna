@@ -1,4 +1,5 @@
 # GrupaMocna
+//Piotr tu był
 #include
 using namespace std;
 int main()
