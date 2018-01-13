@@ -33,3 +33,5 @@ cout << "#";
 char znak;
 cin >> znak;
 }
+
+fhsgd
