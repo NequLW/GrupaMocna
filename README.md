@@ -34,4 +34,4 @@ char znak;
 cin >> znak;
 }
 
-safsdf
+
