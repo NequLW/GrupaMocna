@@ -34,4 +34,3 @@ char znak;
 cin >> znak;
 }
 
-fhsgd
