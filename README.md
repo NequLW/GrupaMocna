@@ -34,4 +34,4 @@ char znak;
 cin >> znak;
 }
 
-qwer42342342
+
