@@ -4,13 +4,6 @@
 using namespace std;
 int main()
 {
-/* PROGRAM WYŚWIETLAJĄCY NA EKRANIE "CHOINKĘ" O WYSOKOŚCI ZADAWANEJ Z KLAWIATURY.
-
-___*
-__***
-_*****
-*******
-___#___________ */
 
 
 int h;
@@ -41,3 +34,5 @@ cout << "#";
 char znak;
 cin >> znak;
 }
+
+
