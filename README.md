@@ -35,4 +35,4 @@ char znak;
 cin >> znak;
 }
 
-
+//to będzie ważna rzecz
