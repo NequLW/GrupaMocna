@@ -1,5 +1,6 @@
 # GrupaMocna
 //Piotr tu był i Dolo też tu był i Knap :D
+//edycja
 #include<iostream>
 using namespace std;
 int main()
