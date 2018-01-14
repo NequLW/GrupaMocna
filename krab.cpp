@@ -11,7 +11,7 @@ cout<< "Podaj liczbe b: "<<endl;
 cin>>b;
 cout<< "Wynik mnozenia: <<a*b;
 
-
+// ladny komentarz
 
 return 0;
 {
