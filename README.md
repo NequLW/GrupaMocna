@@ -25,7 +25,7 @@ cout << "*";
 }
 cout << endl;
 }
-
+//czemu nie palma?
 for (int pien = 1; pien <= h-2; pien++)
 {
 cout << " ";
