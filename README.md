@@ -7,7 +7,7 @@ int main()
 {
 
 
-int h;
+int h;  //podaj inną zmienną  ("Marcin")
 
 cout << "Wprowadz wysokosc choinki: ";
 cin >> h;
