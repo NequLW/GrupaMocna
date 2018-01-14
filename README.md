@@ -1,5 +1,5 @@
 # GrupaMocna
-//Piotr tu był
+//Piotr tu był i Dolo też tu był :D
 #include<iostream>
 using namespace std;
 int main()
